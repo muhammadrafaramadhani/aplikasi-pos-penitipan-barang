@@ -28,7 +28,7 @@ g++ -std=c++17 -Wall -O2 main.cpp Barang.cpp PosManager.cpp -o pos_app.exe
 pos_app.exe
 
 Pengembang
-Muhammad Rafa Ramadhani
-25/562068/TK/63534
+- Muhammad Rafa Ramadhani
+- 25/562068/TK/63534
 
 Project ini dibuat untuk keperluan akademik mata kuliah Pemrograman Dasar UGM.
