@@ -21,8 +21,8 @@ Teknologi
 - Compiler: GNU G++
 
 Cara Compile 
-- Jalankan pos_app.exe
-- Compile
+- Jalankan : pos_app.exe
+- Compile :
 cd pos_app
 g++ -std=c++17 -Wall -O2 main.cpp Barang.cpp PosManager.cpp -o pos_app.exe
 pos_app.exe
