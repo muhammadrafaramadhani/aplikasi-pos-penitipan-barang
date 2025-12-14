@@ -1,0 +1,8 @@
+Pak Asep|10-12-2025 08:30|Naufal|123456|Laptop Asus|1|1|13-12-2025 11:16|
+Bu Siti|10-12-2025 09:15|Dewi|234567|Buku C++|2|1|10-12-2025 14:20|
+Andi|10-12-2025 10:00|Satria|345678|Charger HP|3|0|-|
+Hadi|10-12-2025 11:30|Rapaaa|456789|Jaket Almamater|4|1|10-12-2025 15:45|
+Saphira|11-12-2025 07:45|Rafa|567890|Kalkulator|5|1|14-12-2025 07:04|
+Muh Rafa|14-12-2025 05:56|Rapa R|562068|Jaket|6|1|14-12-2025 06:51|
+Safira|14-12-2025 06:44|M Rafa R|562068|Tas Laptop|7|0|-|
+Asep|14-12-2025 07:03|Aped|333333|Kunci Motor|8|0|-|
